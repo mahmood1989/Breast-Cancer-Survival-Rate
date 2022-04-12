@@ -1,4 +1,4 @@
-# Breast-Cancer-Survival-Rate
+# Breast Cancer Survival Rate
 In these notebooks, I used the available dataset on Kaggle to predict the survival rate of patients having breast cancer.
 https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric
 This is a binary classification problem where class = 0 is for the patients who survive breats cancer and class = 1 is for patients who pass away from this disease.
